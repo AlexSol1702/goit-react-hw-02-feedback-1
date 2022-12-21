@@ -1,0 +1,12 @@
+.button {
+    display: inline;
+    padding: 8px;
+    border: 1px solid turquoise;
+    cursor: pointer;
+    border-radius: 3px;
+
+}
+.button:hover {
+    background-color: aqua;
+    border: 1px solid blue;
+}
